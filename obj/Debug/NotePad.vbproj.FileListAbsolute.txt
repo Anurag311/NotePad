@@ -1,0 +1,16 @@
+C:\Users\asus\3D Objects\vb\NotePad\NotePad\bin\Debug\NotePad.exe.config
+C:\Users\asus\3D Objects\vb\NotePad\NotePad\bin\Debug\NotePad.exe
+C:\Users\asus\3D Objects\vb\NotePad\NotePad\bin\Debug\NotePad.pdb
+C:\Users\asus\3D Objects\vb\NotePad\NotePad\bin\Debug\NotePad.xml
+C:\Users\asus\3D Objects\vb\NotePad\NotePad\obj\Debug\NotePad.vbprojAssemblyReference.cache
+C:\Users\asus\3D Objects\vb\NotePad\NotePad\obj\Debug\NotePad.Form1.resources
+C:\Users\asus\3D Objects\vb\NotePad\NotePad\obj\Debug\NotePad.Resources.resources
+C:\Users\asus\3D Objects\vb\NotePad\NotePad\obj\Debug\NotePad.vbproj.GenerateResource.cache
+C:\Users\asus\3D Objects\vb\NotePad\NotePad\obj\Debug\NotePad.vbproj.CoreCompileInputs.cache
+C:\Users\asus\3D Objects\vb\NotePad\NotePad\obj\Debug\NotePad.exe
+C:\Users\asus\3D Objects\vb\NotePad\NotePad\obj\Debug\NotePad.xml
+C:\Users\asus\3D Objects\vb\NotePad\NotePad\obj\Debug\NotePad.pdb
+C:\Users\asus\3D Objects\vb\NotePad\NotePad\bin\Debug\NotePad.exe.manifest
+C:\Users\asus\3D Objects\vb\NotePad\NotePad\bin\Debug\NotePad.application
+C:\Users\asus\3D Objects\vb\NotePad\NotePad\obj\Debug\NotePad.exe.manifest
+C:\Users\asus\3D Objects\vb\NotePad\NotePad\obj\Debug\NotePad.application
